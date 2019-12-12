@@ -28,17 +28,17 @@ print(Lionel_Messi.name, Lionel_Messi.Ballon_Dors, Lionel_Messi.Goals, Lionel_Me
 
 
 class Ronaldo_vs__Messi:
-    # R_Ballon_Dors = 5
-    # R_Goals = 709
-    # R_Int_Goals = 99
-    # R_Dom_Goals = 608
+     R_Ballon_Dors = 5
+     R_Goals = 709
+     R_Int_Goals = 99
+     R_Dom_Goals = 608
     #
-    # M_Ballon_Dors = 6
-    # M_Goals = 688
-    # M_Int_Goals = 71
-    # M_Dom_Goals = 617
-    # for Ronaldo_vs__Messi in Greatest_Of_All_Time:
-    #     print(input(''))
+     M_Ballon_Dors = 6
+     M_Goals = 688
+     M_Int_Goals = 71
+     M_Dom_Goals = 617
+     for Ronaldo_vs__Messi in Greatest_Of_All_Time:
+            print(input(''))
     def ronaldo(self, R_Ballon_Dors, R_Goals, R_Int_Goals, R_Dom_Goals ):
         self.R_Bllon_Dors = R_Ballon_Dors
         self.R_Goals = R_Goals
